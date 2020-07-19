@@ -1,0 +1,33 @@
+{
+  "name": "react-native-essential",
+  "version": "1.0.0",
+  "description": "RN 项目开发必备，包含功能集、功能服务和常用组件。",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenyongbin/react-native-essential.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenyongbin/react-native-essential/issues"
+  },
+  "homepage": "https://github.com/chenyongbin/react-native-essential#readme",
+  "dependencies": {
+    "@react-navigation/web": "^1.0.0-alpha.7",
+    "react": "16.3.1",
+    "react-art": "^16.13.1",
+    "react-native-fast-image": "5.2.0",
+    "react-native-gesture-handler": "^1.0.12",
+    "react-navigation": "3.11.1",
+    "typescript": "^3.9.3"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "@types/react-native": "^0.62.12"
+  }
+}
